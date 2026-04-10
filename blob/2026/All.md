@@ -18,3 +18,13 @@
 6 - 调研文档编写
  - [调研文档](https://github.com/feifei-xx/plct-works/tree/main/%E5%90%84%E7%A7%8D/%E8%B0%83%E7%A0%94)
 
+7 - 示例拓展——2048
+-用户手册：[Milk-V Mars_2048](https://github.com/feifei-xx/riscv-board-custom-dev/blob/main/Mars/Milk-V%20Mars_2048.md)
+
+-Demo:[Demo_Milk-V Mars_2048](https://github.com/feifei-xx/plct-works/blob/main/%E5%90%84%E7%A7%8D/2048/Demo_Milk-V%20Mars_2048.md)
+
+8 - 示例库拓展——Coremark
+-用户手册：[Milk-V Mars_Coremark](https://github.com/feifei-xx/ruyisdk-dev-archive/blob/main/examples/CoreMark/Milk-V%20Mars_CoreMark.md)
+
+-Demo:[Demo_Milk-V Mars_Coremark](https://github.com/feifei-xx/ruyisdk-dev-archive/blob/main/examples/CoreMark/Demo_Milk-v%20Mars_coremark.md)
+
